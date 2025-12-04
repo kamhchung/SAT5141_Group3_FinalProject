@@ -194,7 +194,7 @@ if opt_thresh is None:
             best_sens = sens
             best_idx = i
     opt_thresh = thresholds[best_idx]
-    print(f"\nCould not reach {desired_recall:.0%} recall; "
+    print(f"\nCould not reach {desired_recall:1%} recall; "
           f"using threshold {opt_thresh:.2f} with sensitivity = {best_sens:.2f}")
 
 print(f"\nChosen operating threshold: {opt_thresh:.2f}")
