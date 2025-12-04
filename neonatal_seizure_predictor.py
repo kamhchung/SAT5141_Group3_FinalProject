@@ -21,7 +21,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import (classification_report, confusion_matrix, roc_auc_score )
+from sklearn.metrics import (classification_report, confusion_matrix, recall_score, roc_auc_score )
 
 
 import ipywidgets as widgets
