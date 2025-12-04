@@ -281,3 +281,9 @@ Oversampling + threshold tuning are used to prioritize seizure detection over sp
 Clinical model limitations include clinical variables alone show limited predictive value for seizure occurrence, which reinforces the need for EEG-based features in neonatal seizure prediction.
 
 The models and Sarnat calculator are intended for didactic demonstration and should not replace clinical judgement, EEG interpretation, or established NICU protocols.
+
+# Recorded Presentation
+
+Please follow this link to watch my recorded presentation. 
+
+https://drive.google.com/file/d/1oHJce-2ybXioOqlwpRtnFgkdQfUm3Re1/view
